@@ -12,7 +12,7 @@ import org.junit.Test;
 // Madhavan
 // Nur Syafiqah
 //Muhammad Nur-Faiz 
-
+// Justin Li
 
 public class ResourceCentreTest {
 	// prepare test data
